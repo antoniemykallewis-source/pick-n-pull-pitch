@@ -1,11 +1,11 @@
 # Vessel Archive × Pick-n-Pull
 
-A researched, responsive content-production partnership pitch. Built in Vessel Archive's current visual language with its actual logos and fonts.
+A five-section pitch positioning Vessel as an outsourced alternative to the social media hire, with content production, channel management and Meta ads in the core offer.
 
-The proposal is a 90-day pilot at Rancho Cordova and Sacramento Mather: two shoot days and 12 original vertical edits per month, supported by a content calendar, approvals and reporting. All scope is proposed. No pricing or promised performance is included.
+Proposed 90-day Sacramento pilot: two yards, two shoot days and 12 original videos per month. Media spend and creator fees are separate. Final channel coverage and response hours are agreed at kickoff. No pricing or performance guarantees.
 
-Open `index.html` for the portable presentation. Its sources and images are embedded, so there is no dependency installation or build step for hosting. The source appendix contains research qualifications and public source links, checked October 16, 2026, Pacific time.
+Live: https://antoniemykallewis-source.github.io/pick-n-pull-pitch/
 
-Navigation: scroll, use the chapter selector or arrow buttons, or use left/right arrow keys. Content-series tabs and the sample calendar are interactive. Reduced-motion preferences and mobile layouts are supported.
+The portable index.html embeds its styles, scripts, fonts and imagery. No build step is required for hosting. Navigate by scrolling, chapter selector or arrow keys. Research notes are available through Sources.
 
-Pick-n-Pull's logo and photographs are used to illustrate this proposal. They remain the property of their respective owners. This is an independent proposal by Vessel Archive, not an official Pick-n-Pull publication or an existing client engagement.
+Vessel and Pick-n-Pull assets remain with their respective owners. This is an independent proposal, not an existing client engagement.
