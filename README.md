@@ -6,6 +6,6 @@ Proposed 90-day Sacramento pilot: two yards, two shoot days and 12 original vide
 
 Live: https://antoniemykallewis-source.github.io/pick-n-pull-pitch/
 
-The portable index.html embeds its styles, scripts, fonts and imagery. No build step is required for hosting. Navigate by scrolling, chapter selector or arrow keys. Research notes are available through Sources.
+The portable index.html embeds its styles, scripts, fonts and imagery. No build step is required for hosting. Navigate by scrolling, chapter selector or arrow keys.
 
 Vessel and Pick-n-Pull assets remain with their respective owners. This is an independent proposal, not an existing client engagement.
